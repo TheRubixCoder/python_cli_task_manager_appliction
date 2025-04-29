@@ -1,0 +1,46 @@
+{
+    "epics": [
+        {
+            "index": 0,
+            "title": "Ghilli app",
+            "description": "It is a kabadi application that is created using react native",
+            "deadline": "2025-04-26 00:00",
+            "duration": 3,
+            "profit": 500.0,
+            "importance": 5,
+            "priority": 833.3333333333333
+        },
+        {
+            "index": 1,
+            "title": "Gmail classifier",
+            "description": "Studio bizkit client",
+            "deadline": "2025-05-01 00:00",
+            "duration": 10,
+            "profit": 3000.0,
+            "importance": 4,
+            "priority": 1200.0
+        }
+    ],
+    "subtasks": [
+        {
+            "epic_index": 0,
+            "title": "Ghilli app",
+            "description": "It is a kabadi application that is created using react native",
+            "deadline": "2025-04-26 00:00",
+            "duration": 3,
+            "profit": 500.0,
+            "importance": 5,
+            "priority": 833.3333333333333
+        },
+        {
+            "epic_index": 1,
+            "title": "Gmail classifier",
+            "description": "Studio bizkit client",
+            "deadline": "2025-05-01 00:00",
+            "duration": 10,
+            "profit": 3000.0,
+            "importance": 4,
+            "priority": 1200.0
+        }
+    ]
+}
