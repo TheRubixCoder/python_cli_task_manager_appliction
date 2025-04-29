@@ -28,3 +28,7 @@ A modular Command Line Interface (CLI) application for managing **epics** and **
    git clone https://github.com/TheRubixCoder/python_cli_task_manager_appliction.git
    cd python_cli_task_manager_appliction
    ```
+2. **Run the script:**
+   ```bash
+   py main.py
+   ```
